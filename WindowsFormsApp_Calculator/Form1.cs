@@ -9,15 +9,17 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp_Calculator
-{
+{ 
     public partial class Form1 : Form
     {
+
         int count = 0;
         float a, b;
         bool sign = true;
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Привет, друг!");
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -30,10 +32,10 @@ namespace WindowsFormsApp_Calculator
 
         }
 
-        /*private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = textBox1.Text + 1;
-        }*/
+        }
                 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -180,16 +182,16 @@ namespace WindowsFormsApp_Calculator
             sign = true;
         }
 
-        /*private void button18_Click(object sender, EventArgs e)
+        private void button18_Click(object sender, EventArgs e)
         {
             count = 1;
             a = float.Parse(textBox1.Text);
             textBox1.Clear();
             label1.Text = "*";
             sign = true;
-        }*/
+        }
 
-        /*private void button19_Click(object sender, EventArgs e)
+        private void button19_Click(object sender, EventArgs e)
         {
             switch (count)
             {
@@ -220,7 +222,7 @@ namespace WindowsFormsApp_Calculator
                     textBox1.Text = b.ToString();
                     break;
             }
-        }*/
+        }
 
         private void label1_Click(object sender, EventArgs e)
         {
