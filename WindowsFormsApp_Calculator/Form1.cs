@@ -30,10 +30,10 @@ namespace WindowsFormsApp_Calculator
 
         }
 
-        /*private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             textBox1.Text = textBox1.Text + 1;
-        }*/
+        }
                 
         private void button2_Click(object sender, EventArgs e)
         {
@@ -180,11 +180,6 @@ namespace WindowsFormsApp_Calculator
             sign = true;
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button18_Click(object sender, EventArgs e)
         {
             count = 1;
@@ -203,7 +198,7 @@ namespace WindowsFormsApp_Calculator
             sign = true;
         }
 
-        /*private void button19_Click(object sender, EventArgs e)
+        private void button19_Click(object sender, EventArgs e)
         {
             switch (count)
             {
@@ -234,7 +229,7 @@ namespace WindowsFormsApp_Calculator
                     textBox1.Text = b.ToString();
                     break;
             }
-        }*/
+        }
 
         private void label1_Click(object sender, EventArgs e)
         {
