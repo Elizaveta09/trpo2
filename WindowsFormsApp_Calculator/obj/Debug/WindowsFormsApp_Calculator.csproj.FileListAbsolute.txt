@@ -1,0 +1,30 @@
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csprojAssemblyReference.cache
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.Form1.resources
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.Properties.Resources.resources
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.GenerateResource.cache
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.exe.config
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.exe
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.pdb
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.exe
+C:\Users\lisik\source\repos\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.pdb
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.exe.config
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.exe
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.pdb
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csprojAssemblyReference.cache
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.Form1.resources
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.Properties.Resources.resources
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.GenerateResource.cache
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.exe
+C:\Users\lisik\Desktop\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.pdb
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.exe.config
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.exe
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\bin\Debug\WindowsFormsApp_Calculator.pdb
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.AssemblyReference.cache
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.Form1.resources
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.Properties.Resources.resources
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.GenerateResource.cache
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.exe
+C:\Users\Lisik\Desktop\3 семестр\OOП\WindowsFormsApp_Calculator\WindowsFormsApp_Calculator\obj\Debug\WindowsFormsApp_Calculator.pdb
