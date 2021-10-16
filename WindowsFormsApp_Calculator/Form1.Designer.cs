@@ -68,7 +68,7 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "1";
             this.button1.UseVisualStyleBackColor = true;
-            //this.button1.Click += new System.EventHandler(this.button1_Click); commit1*=
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -238,7 +238,7 @@
             this.button18.TabIndex = 18;
             this.button18.Text = "*";
             this.button18.UseVisualStyleBackColor = true;
-            //this.button18.Click += new System.EventHandler(this.button18_Click); commit1*=
+            this.button18.Click += new System.EventHandler(this.button18_Click_1);
             // 
             // button19
             // 
@@ -248,7 +248,6 @@
             this.button19.TabIndex = 19;
             this.button19.Text = "=";
             this.button19.UseVisualStyleBackColor = true;
-            //this.button19.Click += new System.EventHandler(this.button19_Click); commit1*=
             // 
             // label1
             // 

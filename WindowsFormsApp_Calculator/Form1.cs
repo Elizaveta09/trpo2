@@ -180,14 +180,28 @@ namespace WindowsFormsApp_Calculator
             sign = true;
         }
 
-        /*private void button18_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button18_Click(object sender, EventArgs e)
         {
             count = 1;
             a = float.Parse(textBox1.Text);
             textBox1.Clear();
             label1.Text = "*";
             sign = true;
-        }*/
+        }
+
+        private void button18_Click_1(object sender, EventArgs e)
+        {
+            count = 1;
+            a = float.Parse(textBox1.Text);
+            textBox1.Clear();
+            label1.Text = "*";
+            sign = true;
+        }
 
         /*private void button19_Click(object sender, EventArgs e)
         {
