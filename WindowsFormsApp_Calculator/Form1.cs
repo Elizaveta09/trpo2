@@ -224,9 +224,25 @@ namespace WindowsFormsApp_Calculator
             }
         }
 
+
         private void label1_Click(object sender, EventArgs e)
         {
 
         }
+
+        private void toolStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void выходToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var exit = MessageBox.Show("Вы уверены, что хотите завершить работу программы?", " ", MessageBoxButtons.OKCancel);
+            if (exit == DialogResult.OK)
+            {
+                Application.Exit();
+            }
+        }    
+
     }
 }
